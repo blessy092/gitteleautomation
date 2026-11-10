@@ -6,7 +6,7 @@ API 1 – GitHub Search API
 •	Method: GET
 •	Purpose: Fetch the top five Python repositories based on star count.
 API 2 – GitHub README API
-•	Endpoint: https://api.github.com/repos/{owner}/{repo}/readme
+•	Endpoint: https://api.github.com/repos/{blessyboban}/{repo}/readme
 •	Method: GET
 •	Purpose: Retrieve README information for the most popular repository.
 Notification – Telegram Bot API
